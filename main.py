@@ -13,7 +13,7 @@ if __name__ == '__main__':
     series2 = input()
 
     if len(series1) != len(series2):
-        print("Error: Lists must be the same length.")
+        print("Error")
         exit()
     try:
         list1 = [int(x) for x in series1]
