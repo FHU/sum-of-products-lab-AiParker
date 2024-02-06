@@ -25,4 +25,3 @@ if __name__ == '__main__':
     
 output = sum_of_products(list1, list2)
 print("Output =", output)
-
