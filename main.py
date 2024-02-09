@@ -25,3 +25,4 @@ if __name__ == '__main__':
     
 output = sum_of_products(list1, list2)
 print("Output =", output)
+C:\Users\Your Name\AppData\Local\Programs\Python\Python36-32\Scripts>pip --version
